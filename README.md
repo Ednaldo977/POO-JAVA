@@ -1,6 +1,6 @@
 # POO-JAVA
 Exercicios de pratica com POO em JAVA
-# 01 - Exercicio Agência Bancaria
+# 01 - Exercicio Agência Bancaria.
 Neste exercicio aprendi bastante a utilizar os metódos GET E SET além dos metódos das classes. Abaixo é possível ver o resultado do código no Terminal.
 Criando a conta, listando e depositando dinheiro.
 <p align="center">
